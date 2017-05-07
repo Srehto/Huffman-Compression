@@ -1,5 +1,13 @@
 # Huffman-Compression
 
+<h3>French version below</h3>
+
+<h1>Huffman Compression</h1>
+
+<h2>How to use</h2>
+<h2>
+________________________________________________________________________________________________
+
 <h1>Compression de Huffman</h1>
 
 <h2>Manuel :</h2>
@@ -95,3 +103,6 @@ années en CP2I, tout cela dans le but de créer un programme utile et dont
 la méthode est très intéressante. Même si ce devoir est rendu, j’espère
 pouvoir le terminer chez moi et le rendre fonctionnel, et pourquoi ne pas
 lui rajouter quelques fonctionnalités.</p>
+
+__________________________________________________________________________
+
